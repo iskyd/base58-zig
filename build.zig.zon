@@ -1,6 +1,6 @@
 .{
     .name = .base58,
-    .version = "0.1.3",
+    .version = "0.1.5",
     .dependencies = .{},
     .fingerprint = 0xed092d9e18587ad7,
     .paths = .{
